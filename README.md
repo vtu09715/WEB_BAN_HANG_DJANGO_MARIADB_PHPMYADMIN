@@ -50,5 +50,14 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a74bd6c1-ae4b-4318-89d5-ab5d618034de" />
 # chạy server
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0deaf26a-4d31-484b-b44c-fd417046c22f" />
+# kết quả 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8020a9ce-1370-4d26-b11b-8742e2618546" />
+# thêm sản phẩm 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2dcce2c-2750-4f6c-a9fe-a73269bea7d2" />
+# đặt hàng 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e48d2cbb-eaab-4a98-abfa-e497ed40b1e3" />
+# đã thấy ok 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f171a990-e6f0-49cc-bc8c-d681b21a8a69" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3fd6f9ee-f8c6-4385-9b08-4b158fbc18f0" />
 
 
