@@ -1,19 +1,31 @@
 # WEB_BAN_HANG_DJANGO_MARIADB_PHPMYADMIN
+
 # VŨ ĐỨC TÚ 
+
 # MSV: K225480106068
+
 # LỚP: K58.KTP
+
 # A — Tạo web Django bán chè
+
 # 1. tạo môi trường ảo
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09b2475f-b466-47f0-94ba-b062a63d7d1e" />
 
 # 2. Cài django
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e6d490b-f27e-421d-ada2-f4b2bf15dd84" />
+
 # 3. tạo project
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c56cd28e-274a-4c97-abcb-afe26cb4f999" />
 
 # B — Cài MariaDB + phpMyAdmin
+
 # 1. cài xampp
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5fe36cda-1a80-4b51-88d2-c63120cb6a6a" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f639460-446b-4ce7-a831-d3ff1366051b" />
 
 # mở phpmyadmin 
@@ -37,6 +49,7 @@
 # tạo kho shop 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/83f46f77-6942-44bc-8409-21d472dfbc96" />
+
 # tạo admin bán hàng 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fcda210b-fedc-4e75-b4a1-e173d9cf3cf8" />
