@@ -59,5 +59,11 @@
 # đã thấy ok 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f171a990-e6f0-49cc-bc8c-d681b21a8a69" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3fd6f9ee-f8c6-4385-9b08-4b158fbc18f0" />
-
+# tạo miền cho web
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac559a5d-408a-4368-831a-fba06f6b2bfc" />
+# Sửa django 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91b41146-d8f3-4fe5-8557-7e49547a4286" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d2b7f1ae-a0c7-41a2-a0dd-b588fd5636bd" />
+# chạy ok 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b973069-1d37-4c42-8ebc-b8f87fac480d" />
 
