@@ -17,53 +17,99 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f639460-446b-4ce7-a831-d3ff1366051b" />
 
 # mở phpmyadmin 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/10f139c1-3ddb-48c5-8d20-3f5931d770a3" />
+
 # 2. Tạo database 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/424c70eb-b37b-4544-818b-5ff2e9b3fe97" />
+
 # C — Cấu hình Django dùng MariaDB
+
 # thêm shop 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/59dab89f-3969-42d7-94ed-aa8770be8905" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8058276-d10b-4c7a-a043-28aa64f5ca92" />
+
 # D — Tạo bảng sản phẩm, đơn hàng, kho
+
 # tạo kho shop 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/83f46f77-6942-44bc-8409-21d472dfbc96" />
 # tạo admin bán hàng 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fcda210b-fedc-4e75-b4a1-e173d9cf3cf8" />
+
 # 1. Tạo database table
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5db96ed0-eafa-4f91-b763-b1ab65c88914" />
+
 # 2. Tạo admin 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/979b4987-888a-471a-af01-997200c9f4c1" />
+
 # E — Tạo trang bán chè
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f51337a3-805d-4f82-9fa8-eb9123c6f099" />
+
 # 1. Tạo url 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65e2649e-0fc5-409c-88f4-a285ad0ddbed" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/74640dd8-0161-416b-834c-29b404b5fb1b" />
+
 # 2. Tạo giao diện html 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9506ab52-9064-4bd2-9348-75601008b15f" />
+
 # F — Chạy thử local
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8e5a0264-1531-4651-9c52-9ae28d745025" />
+
 # cài lại django để chạy ổn định với mariadb cũ 
+
 <img width="1113" height="239" alt="image" src="https://github.com/user-attachments/assets/42d2f0b8-549a-4879-9ccf-c516d4992e0b" />
+
 # chạy thử 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f487da82-4910-42e4-9a5f-cd3b55998c88" />
+
 # tạo admin 12345678
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a74bd6c1-ae4b-4318-89d5-ab5d618034de" />
+
 # chạy server
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0deaf26a-4d31-484b-b44c-fd417046c22f" />
+
 # kết quả 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8020a9ce-1370-4d26-b11b-8742e2618546" />
+
 # thêm sản phẩm 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2dcce2c-2750-4f6c-a9fe-a73269bea7d2" />
+
 # đặt hàng 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e48d2cbb-eaab-4a98-abfa-e497ed40b1e3" />
+
 # đã thấy ok 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f171a990-e6f0-49cc-bc8c-d681b21a8a69" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3fd6f9ee-f8c6-4385-9b08-4b158fbc18f0" />
+
 # tạo miền cho web
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac559a5d-408a-4368-831a-fba06f6b2bfc" />
+
 # Sửa django 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91b41146-d8f3-4fe5-8557-7e49547a4286" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d2b7f1ae-a0c7-41a2-a0dd-b588fd5636bd" />
+
 # chạy ok 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b973069-1d37-4c42-8ebc-b8f87fac480d" />
 
